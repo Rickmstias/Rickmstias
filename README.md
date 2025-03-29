@@ -18,29 +18,39 @@
 </div>
  
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React - JavaScript library for interfaces"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" title="JavaScript - Dynamic programming language"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js - JavaScript runtime for servers"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C Language" title="C - System programming language"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML, CSS" title="HTML, CSS - Core web technologies"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap - CSS framework for responsive design"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL - Database management system"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub, VSCode" title="GitHub - Version control, VSCode - Code editor"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop" title="Figma - Collaborative design, Photoshop - Image editing"/></a>
+</div>
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub, VSCode" title="GitHub - Version control, VSCode - Code editor"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,windows&theme=dark" alt="Git, Windows" title="Git - Version control system, Windows - Operating system"/></a>
+</div>
  
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp; 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML, CSS" title="HTML, CSS - Core web technologies"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C Language" title="C - System programming language"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap - CSS framework for responsive design"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL - Database management system"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop" title="Figma - Collaborative design, Photoshop - Image editing"/></a>
+</div>
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React - JavaScript library for interfaces"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" title="JavaScript - Dynamic programming language"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js - JavaScript runtime for servers"/></a>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
